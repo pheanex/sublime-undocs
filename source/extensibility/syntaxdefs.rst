@@ -4,7 +4,7 @@ Syntax Definitions
 
 Syntax definitions make Sublime Text aware of programming and markup languages.
 Most noticeably, they work together with colors to provide syntax highlighting.
-Syntax definitions define *scopes* that divide the text in a buffer into named
+Syntax definitions define *scopes* that divide the text into a buffer of named
 regions. Several editing features in Sublime Text make extensive use of
 this fine-grained contextual information.
 
